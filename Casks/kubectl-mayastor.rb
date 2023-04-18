@@ -5,7 +5,7 @@ cask "kubectl-mayastor" do
   url "https://github.com/openebs/mayastor-control-plane/releases/download/v#{version}/kubectl-mayastor-x86_64-apple-darwin.zip,
       verified: github.com/openebs/mayastor-control-plane/"
   name "Mayastor Kubectl Plugin"
-  desc "kubectl plugin to view/manage Mayastor resources"
+  desc "Kubectl plugin to view/manage Mayastor resources"
   homepage "https://mayastor.gitbook.io/"
 
   binary "kubectl-mayastor"
