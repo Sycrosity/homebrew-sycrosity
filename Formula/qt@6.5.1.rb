@@ -1,4 +1,4 @@
-class Qt < Formula
+class QtAT651 < Formula
   include Language::Python::Virtualenv
 
   desc "Cross-platform application and UI framework"
